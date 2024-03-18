@@ -8,7 +8,7 @@ ul {
 }
 
 link {
-  text-decoration: none;
+  /* text-decoration: none; */
   color: #8220bb93;
   font-size: 14px;
 
@@ -219,7 +219,8 @@ h2 {
 .recommendation {
   font-style: italic;
   text-align: left;
-  width: 17rem;
+  width: 17rem; 
+  /* 21.875rem */
   padding: 1rem;
   background-color: #fff;
   border-radius: 11px;
