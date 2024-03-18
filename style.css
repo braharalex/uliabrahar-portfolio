@@ -7,6 +7,13 @@ ul {
   list-style: none;
 }
 
+link {
+  text-decoration: none;
+  color: #8220bb93;
+  font-size: 14px;
+
+}
+
 /* Navigation Bar */
 
 #home {
