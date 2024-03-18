@@ -7,12 +7,7 @@ ul {
   list-style: none;
 }
 
-link {
-  /* text-decoration: none; */
-  color: #8220bb93;
-  font-size: 14px;
 
-}
 
 /* Navigation Bar */
 
@@ -203,6 +198,13 @@ h2 {
 .project-card li {
   font-size: 20px;
   margin-left: 30px;
+}
+
+.card-link {
+  /* text-decoration: none; */
+  color: #8220bb93;
+  font-size: 14px;
+
 }
 
 /* Recommendations */
